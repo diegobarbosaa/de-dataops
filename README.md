@@ -24,7 +24,7 @@ Antes de começar, certifique-se de ter o Git e o Docker instalados no seu siste
 3. Execute o seguinte comando:
 
     ```
-    git clone https://github.com/cristianefleal/de-dataops.git
+    git clone https://github.com/diegobarbosaa/de-dataops.git
     ```
 
 ### Configurar e executar o docker compose
